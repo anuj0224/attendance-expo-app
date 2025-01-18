@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "attendance",
+    "slug": "attendance",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/comlogo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/comlogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/comlogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.attendance"
+    },
+    "web": {
+      "favicon": "./assets/comlogo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2ecf31e2-c0c6-447c-9fb6-292137c73af4"
+      }
+    }
+  }
+}
